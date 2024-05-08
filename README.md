@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waveing&color=gradient&text=&animation=twinkling&height=300&section=header&text=ChaeYeon's%20Github&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
 
 ### Hi there 👋
 
