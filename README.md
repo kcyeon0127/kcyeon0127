@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waveing&color=gradient&height=300&section=header&text=ChaeYeon's%20Github&fontSize=90)
+
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcyeon0127&show_icons=true&theme=radical)
